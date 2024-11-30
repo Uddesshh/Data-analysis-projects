@@ -1,15 +1,15 @@
-#Project Title:
+#PROJECT TITLE:
 HR Analysis Data Analyst Project
 
-Project Overview:
+PROJECT OVERVIEW:
 This project involves the analysis of employee data to gain insights into various human resource (HR) aspects within an organization. The goal is to apply data analytics techniques to identify patterns and trends related to employee performance, retention, recruitment, and engagement. The findings can help HR departments make data-driven decisions to improve employee satisfaction, reduce turnover, and optimize hiring and retention strategies.
 
-Objective:
+OBJECTIVE:
 Employee Retention Analysis: Predict which employees are likely to leave the company based on historical data such as tenure, job satisfaction, and other employee-related factors.
 Performance Analysis: Evaluate the correlation between employee performance and factors such as compensation, job roles, and training.
 Recruitment Effectiveness: Analyze how recruitment channels (e.g., job boards, referrals) impact the quality and retention of hires.
 Employee Satisfaction: Examine employee survey data to understand satisfaction levels and identify areas for improvement.
-Data Sources:
+DATA SOURCES:
 The dataset for this project is based on publicly available HR data, which may include:
 
 Employee demographics (e.g., age, gender, tenure, department)
@@ -18,7 +18,7 @@ Salary and compensation details
 Recruitment source data
 Employee survey data (engagement, satisfaction, etc.)
 Exit interview data (for retention analysis)
-Key Questions to Answer:
+KEY QUESTIONS TO ANSWER:
 Job Distribution:
 Visualizing the distribution of employees across different job roles/ or departments.
 
